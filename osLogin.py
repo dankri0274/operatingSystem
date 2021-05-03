@@ -1,4 +1,4 @@
-from os.py import *
+from os import *
 import stdiomask
 
 usedAll = False

@@ -1,1 +1,1 @@
-from os.py import *
+from os import *

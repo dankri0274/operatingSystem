@@ -2,8 +2,8 @@ import os
 import sys
 import time
 import stdiomask
-from osLogin.py import *
-from osCommands.py import *
+from osLogin import *
+from osCommands import *
 from termcolor import colored
 
 root = False
